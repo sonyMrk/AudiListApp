@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Cars Audi</string>
+    <string name="name1">Audi A4</string>
+    <string name="name2">Audi A5</string>
+    <string name="name3">Audi A6</string>
+    <string name="name4">Audi A7</string>
+    <string name="name5">Audi A8</string>
+    <string name="name6">Audi Q3</string>
+    <string name="name7">Audi Q5</string>
+    <string name="name8">Audi Q7</string>
+    <string name="name9">Audi Q8</string>
+    <string name="name10">Audi S6</string>
+    <string name="name11">Audi S8</string>
+
+    <string name="price1">18 105 000тг</string>
+    <string name="price2">20 500 000тг</string>
+    <string name="price3">24 750 000тг</string>
+    <string name="price4">30 800 000тг</string>
+    <string name="price5">44 700 000тг</string>
+    <string name="price6">17 200 000тг</string>
+    <string name="price7">24 500 000тг</string>
+    <string name="price8">33 150 000тг</string>
+    <string name="price9">33 650 000тг</string>
+    <string name="price10">39 900 000тг</string>
+    <string name="price11">69 900 000тг</string>
+</resources>
